@@ -92,5 +92,3 @@ Beyond backend development, I have experience working with **Next.js**, allowing
 🐙 **GitHub** – [github.com/prospercoded](https://github.com/prospercoded)  
 
 ---
-
-This **fully integrates your ongoing projects, completed projects, and a link to your CV**, making your **GitHub profile** look well-organized and **highly professional**! 🚀 Let me know if you’d like any final refinements! 🔥  
