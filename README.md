@@ -13,14 +13,17 @@ Beyond backend development, I have experience working with **Next.js**, allowing
 ---
 
 ### 🔧 What I'm Working On  
-- **🪙 Direct** – A Web3 application streamlining crypto-to-fiat conversion (**Express, Socket.io, Web3.js, PostgreSQL, Supabase, Squad Payment**)  
+- **Medmap** - Med-Map is a web-based AI-powered application that helps users locate nearby pharmacies with specific medications in stock, while also providing smart health advice via an AI assistant, 
 - **🛠 GoalFund** – A real-time community funding platform promoting financial transparency (**NestJS, React, PostgreSQL**)  
 - **📚 DSA by Mosh** – Implementing data structures and algorithms in Java ([Repo](https://github.com/ProsperCoded/DSA))  
 
 ---
 
 ### 💡 Featured Projects  
+
 #### **🚀 Full-Stack Applications**  
+- **UniNav** – A collaborative platform for sharing university study materials, create study space, advertise and share updates ([Repo](https://github.com/ProsperCoded/uninav))
+- **🪙 Direct** – A Web3 application streamlining crypto-to-fiat conversion (**Express, Socket.io, Web3.js, PostgreSQL, Supabase, Squad Payment**)  
 - **Habitual** – A productivity and habit-tracking platform  
   - [Frontend Repo](https://github.com/ProsperCoded/Habiutal-Frontend)  
   - [Backend Repo](https://github.com/ProsperCoded/Habitual-Backend)  
@@ -31,43 +34,38 @@ Beyond backend development, I have experience working with **Next.js**, allowing
 
 - **Eniola Store** – An online marketplace for product showcasing ([Repo](https://github.com/ProsperCoded/Ecommerce-Store))  
 
+
 #### **🌍 Web Development Projects**  
 - **Shurrelink** – A travel agency website ([Repo](https://github.com/ProsperCoded/Shurrelink))  
 
 ---
 
 ### 🛠 Tech Stack  
-#### **Programming Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
 
-#### **Backend & Frameworks**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)  
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat-square&logo=express&logoColor=white)  
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)  
-![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)  
-
-#### **Frontend Frameworks**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
-
-#### **Databases & ORMs**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)  
-![Drizzle](https://img.shields.io/badge/-Drizzle-3b3b3b?style=flat-square&logo=prisma&logoColor=white)  
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)  
-
-#### **Tools & DevOps**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/-CI/CD-blue?style=flat-square)  
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)  
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle-3b3b3b?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+</p>
 
 ---
 
