@@ -70,7 +70,7 @@ Beyond backend development, I have experience working with **Next.js**, allowing
 ---
 
 ### 📜 Resume  
-📄 **Check out my CV here:** [ProsperCoded Resume](https://github.com/ProsperCoded/prospercoded/edit/main/resume.pdf)  
+📄 **Check out my CV here:** [My Resume]([https://github.com/ProsperCoded/prospercoded/edit/main/resume.pdf](https://drive.google.com/file/d/1_hD8kCqkpa_C7De8IXmPZfmnPRDBZCf-/view?usp=sharing))  
 
 ---
 
