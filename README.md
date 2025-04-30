@@ -13,7 +13,7 @@ Beyond backend development, I have experience working with **Next.js**, allowing
 ---
 
 ### 🔧 What I'm Working On  
-- **Medmap** - Med-Map is a web-based AI-powered application that helps users locate nearby pharmacies with specific medications in stock, while also providing smart health advice via an AI assistant, 
+
 - **🛠 GoalFund** – A real-time community funding platform promoting financial transparency (**NestJS, React, PostgreSQL**)  
 - **📚 DSA by Mosh** – Implementing data structures and algorithms in Java ([Repo](https://github.com/ProsperCoded/DSA))  
 
@@ -22,21 +22,22 @@ Beyond backend development, I have experience working with **Next.js**, allowing
 ### 💡 Featured Projects  
 
 #### **🚀 Full-Stack Applications**  
-- **UniNav** – A collaborative platform for sharing university study materials, create study space, advertise and share updates ([Repo](https://github.com/ProsperCoded/uninav))
+- **[Medmap](https://medmap.live)** - Med-Map is a web-based AI-powered application that helps users locate nearby pharmacies with specific medications in stock, while also providing smart health advice via an AI assistant, 
+- **[UniNav](https://uninav.live)** – A collaborative platform for sharing university study materials, create study space, advertise and share updates ([Repo](https://github.com/ProsperCoded/uninav))
 - **🪙 Direct** – A Web3 application streamlining crypto-to-fiat conversion (**Express, Socket.io, Web3.js, PostgreSQL, Supabase, Squad Payment**)  
-- **Habitual** – A productivity and habit-tracking platform  
+- **[Habitual](https://habitual-coded.netlify.app)** – A productivity and habit-tracking platform  
   - [Frontend Repo](https://github.com/ProsperCoded/Habiutal-Frontend)  
   - [Backend Repo](https://github.com/ProsperCoded/Habitual-Backend)  
 
-- **9ja Market** – An e-commerce platform for local market vendors  
+- **[9ja Market](https://www.9jamarkets.com)** – An e-commerce platform for local market vendors  
   - [Frontend Repo](https://github.com/ProsperCoded/9jaMarkets-Frontend)  
   - [Backend Repo](https://github.com/ProsperCoded/9ja-Market-Backend)  
 
-- **Eniola Store** – An online marketplace for product showcasing ([Repo](https://github.com/ProsperCoded/Ecommerce-Store))  
+- **[Eniola Store](eniola-store2.vercel.app)** – An online marketplace for product showcasing ([Repo](https://github.com/ProsperCoded/Ecommerce-Store))  
 
 
 #### **🌍 Web Development Projects**  
-- **Shurrelink** – A travel agency website ([Repo](https://github.com/ProsperCoded/Shurrelink))  
+- **[Shurrelink](http://shurrelink.netlify.app)** – A travel agency website (2yrs ago) ([Repo](https://github.com/ProsperCoded/Shurrelink))  
 
 ---
 
