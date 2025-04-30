@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me  
-I’m a **Backend Engineer** specializing in **Node.js**, passionate about designing scalable, high-performance server-side applications. My expertise includes building RESTful APIs with **NestJS and ExpressJS**, managing databases (**PostgreSQL, MySQL, MongoDB**), and implementing **secure authentication, caching strategies, and microservices architecture**.  
+I’m a **FullStack engineer ( mainly Backend Engineering)** specializing in **Node.js**, passionate about designing scalable, high-performance server-side applications. My expertise includes building RESTful APIs with **NestJS and ExpressJS**, managing databases (**PostgreSQL, MySQL, MongoDB**), and implementing **secure authentication, caching strategies, and microservices architecture**.  
 
 Beyond backend development, I have experience working with **Next.js**, allowing me to integrate backend logic seamlessly with frontend applications. I love collaborating on impactful projects, tackling complex problems, and optimizing system performance.  
 
