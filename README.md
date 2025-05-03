@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Prosper Enwerem</h1>
 <p align="center">
-  <b>Backend Engineer | Web3 Enthusiast | Problem Solver</b>
+  <b>Backend Engineer | Web3 Enthusiast | Fullstack Developer </b>
 </p>
 
 ---
