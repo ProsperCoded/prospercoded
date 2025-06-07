@@ -18,6 +18,7 @@ Beyond backend development, I have experience working with **Next.js**, allowing
 
 - **🛠 GoalFund** – A real-time community funding platform promoting financial transparency (**NestJS, React, PostgreSQL**)
 - **📚 DSA by Mosh** – Implementing data structures and algorithms in Java ([Repo](https://github.com/ProsperCoded/DSA))
+- **🧪 LeetCode Challenges** - Actively solving algorithmic problems on LeetCode. Solved over 30+ questions. ([My LeetCode Profile](https://leetcode.com/u/prosperCoded/))
 
 ---
 
